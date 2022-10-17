@@ -30,7 +30,7 @@ INSTALLED_APPS = [
 
 
     # 'my apps
-    'blog.app',
+    'blog_app',
 
 
 ]
